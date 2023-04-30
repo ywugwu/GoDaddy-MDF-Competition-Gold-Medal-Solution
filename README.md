@@ -1,5 +1,23 @@
 # CSCI-6443-Project
 
+## Install the following packages
+
+```
+pip install pandas
+pip install numpy
+pip install seaborn
+pip install matplotlib
+pip install tqdm
+pip install scikit-learn
+pip install lightgbm
+pip install xgboost
+pip install catboost
+
+```
+
+## Generate a submission file
+
+Please use `run all` in the `main.ipynb`
 
 ## Data Download
 
