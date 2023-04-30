@@ -1,0 +1,33 @@
+=============================================================================================================
+  TABLE INFO
+=============================================================================================================
+
+ID: ACSST5Y2021.S0101
+Title: AGE AND SEX
+
+=============================================================================================================
+  NOTES
+=============================================================================================================
+
+When information is missing or inconsistent, the Census Bureau logically assigns an acceptable value using the response to a related question or questions. If a logical assignment is not possible, data are filled using a statistical process called allocation, which uses a similar individual or household to provide a donor value. The "Allocated" section is the number of respondents who received an allocated value for a particular subject.<br/><br/>
+
+Supporting documentation on code lists, subject definitions, data accuracy, and statistical testing can be found on the American Community Survey website in the <a href="https://www.census.gov/programs-surveys/acs/technical-documentation/code-lists.html">Technical Documentation</a> section.<br /><br />Sample size and data quality measures (including coverage rates, allocation rates, and response rates) can be found on the American Community Survey website in the <a href="https://www.census.gov/acs/www/methodology/sample_size_and_data_quality/">Methodology</a> section.<br/><br/>
+
+Although the American Community Survey (ACS) produces population, demographic and housing unit estimates, it is the Census Bureau's Population Estimates Program that produces and disseminates the official estimates of the population for the nation, states, counties, cities, and towns and estimates of housing units for states and counties.<br/><br/>
+
+Data are based on a sample and are subject to sampling variability. The degree of uncertainty for an estimate arising from sampling variability is represented through the use of a margin of error. The value shown here is the 90 percent margin of error. The margin of error can be interpreted roughly as providing a 90 percent probability that the interval defined by the estimate minus the margin of error and the estimate plus the margin of error (the lower and upper confidence bounds) contains the true value. In addition to sampling variability, the ACS estimates are subject to nonsampling error (for a discussion of nonsampling variability, see <a href="https://www.census.gov/programs-surveys/acs/technical-documentation.html">ACS Technical Documentation</a>). The effect of nonsampling error is not represented in these tables.<br/><br/>
+
+Estimates of urban and rural populations, housing units, and characteristics reflect boundaries of urban areas defined based on Census 2010 data. As a result, data for urban and rural areas from the ACS do not necessarily reflect the results of ongoing urbanization.<br/><br/>
+
+Explanation of Symbols:<TABLE><TR><TD>-</TD><TD> The estimate could not be computed because there were an insufficient number of sample observations. For a ratio of medians estimate, one or both of the median estimates falls in the lowest interval or highest interval of an open-ended distribution. For a 5-year median estimate, the margin of error associated with a median was larger than the median itself.</TD></TR><TR><TD>N</TD><TD> The estimate or margin of error cannot be displayed because there were an insufficient number of sample cases in the selected geographic area.</TD></TR><TR><TD> (X)</TD><TD> The estimate or margin of error is not applicable or not available.</TD></TR><TR><TD>median-</TD><TD> The median falls in the lowest interval of an open-ended distribution (for example "2,500-")</TD></TR><TR><TD>median+</TD><TD> The median falls in the highest interval of an open-ended distribution (for example "250,000+").</TD></TR><TR><TD>**</TD><TD> The margin of error could not be computed because there were an insufficient number of sample observations.</TD></TR><TR><TD>***</TD><TD> The margin of error could not be computed because the median falls in the lowest interval or highest interval of an open-ended distribution.</TD></TR><TR><TD>*****</TD><TD> A margin of error is not appropriate because the corresponding estimate is controlled to an independent population or housing estimate. Effectively, the corresponding estimate has no sampling error and the margin of error may be treated as zero.</TD></TR></TABLE><br/><br/>
+
+The age dependency ratio is derived by dividing the combined under-18 and 65-and-over populations by the 18-to-64 population and multiplying by 100.<br/><br/>
+
+The old-age dependency ratio is derived by dividing the population 65 and over by the 18-to-64 population and multiplying by 100.<br/><br/>
+
+The child dependency ratio is derived by dividing the population under 18 by the 18-to-64 population and multiplying by 100.<br/><br/>
+
+Source: U.S. Census Bureau, 2017-2021 American Community Survey 5-Year Estimates<br/><br/>
+
+The 2017-2021 American Community Survey (ACS) data generally reflect the March 2020 Office of Management and Budget (OMB) delineations of metropolitan and micropolitan statistical areas. In certain instances, the names, codes, and boundaries of the principal cities shown in ACS tables may differ from the OMB delineation lists due to differences in the effective dates of the geographic entities.<br/><br/>
+
