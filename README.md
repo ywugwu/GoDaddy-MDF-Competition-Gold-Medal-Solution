@@ -1,10 +1,5 @@
-# CSCI-6443-Project
+# 12th (?) place of the GoDaddy - Microbusiness Density Forecasting competition: [https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting](https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting).
 
-This is a course project for CSCI 6443. This project focuses on the kaggle competition: [https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting](https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting).
-
-We achieved the top 4.3% ranking among all participants.
-
-![current standing](PB.png)
 
 ## Install the following packages
 
