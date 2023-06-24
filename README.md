@@ -21,7 +21,3 @@ pip install catboost
 ## Generate a submission file
 
 Please use `run all` in the `main.ipynb`
-
-## Data Download
-
-[GoDaddy - Microbusiness Density Forecasting Data](https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting/data)
