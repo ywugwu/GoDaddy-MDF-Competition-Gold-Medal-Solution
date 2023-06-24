@@ -1,4 +1,4 @@
-# 11th solution of the GoDaddy - Microbusiness Density Forecasting competition: [https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting](https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting).
+# 11th solution of the GoDaddy - Microbusiness Density Forecasting competition: [https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting](https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting)
 
 
 ## Install the following packages
